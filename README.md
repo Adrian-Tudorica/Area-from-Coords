@@ -1,4 +1,4 @@
-# Area-from-Coords
+# Area-from-Coordinates
 
 Area Calculator from Coordinate Points (From Axis-Aligned Rectangles Coordinates)
 
